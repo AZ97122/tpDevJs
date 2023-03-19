@@ -1,10 +1,15 @@
 # **TP Développement web JavaScript API Fetch**
 
 ## _API utilisées_ :
+
 J'ai utilisé 2 API :   
 - 'Dog API' (url : https://dog.ceo/dog-api/documentation/random)
 - 'The Cat API' (url : https://thecatapi.com)
 
+## _Site_ :
+Le site est divisé en deux parties :
+- Dans la partie de gauche, le bouton permet d'afficher des images récupérées avec l'API 'Dog API'
+- Dans la partie de droite, le bouton permet d'afficher des images récupérées avec l'API 'The Cat API'.
 ## _Librairies utilisées_ :
 Uniquement Boostrap, pour au final l'utiliser uniquement pour centrer le text avec 'text-center'.
 
